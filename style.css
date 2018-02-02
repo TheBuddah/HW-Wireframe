@@ -1,0 +1,42 @@
+section {
+    color: #888;
+    background: #eee;
+    text-align: center;
+    margin-top: 20px;
+    height: 300px;
+    width: 55%;
+    float: left;
+}
+
+aside {
+    color: #888;
+    background: #eee;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 300px;
+    width: 43.5%;
+    float: right;
+}
+header {
+	margin-top: 20px;
+	width: 100%;
+	height: 100px;
+	background: #eee;
+}
+nav {
+	margin-top: 20px;
+	width: 100%;
+	height: 100px;
+	background: #eee;
+}
+footer {
+	margin-top: 20px;
+	width: 100%;
+	height: 100px;
+	background: #eee;
+}
+.heading {
+	float:left;
+	
+}
